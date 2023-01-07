@@ -90,7 +90,7 @@ ul li{
 }
 .skill{
     border-radius: 5px;
-    margin-left: 10px;
+    text-align: center;
 }
 .skill-title{
       font-weight: 700;
@@ -111,8 +111,8 @@ ul li{
     border-radius: 8px;
     height: 300px;
     width: 1140px;
-    margin-left: 300px;
-    margin-right: 300px;    
+    margin-left: 500px;
+        
 }
 .section-h3{
     font-weight: 700;
